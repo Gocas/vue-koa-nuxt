@@ -1,0 +1,46 @@
+# branches to build
+branches:
+  # whitelist
+  only:
+    - dev
+    - master
+  # blacklist
+  except:
+    - gh-pages
+skip_branch_with_pr: true
+max_jobs: 4
+
+# Test against the latest version of this Node.js version
+environment:
+  matrix:
+    - nodejs_version: "8"
+    - nodejs_version: "9"
+
+platform:
+  # - x86
+  - x64
+
+cache:
+  - "%LOCALAPPDATA%\\Yarn"
+  - node_modules
+
+# Install scripts. (runs after repo cloning)
+install:
+  # Get the latest stable version of Node.js or io.js
+  - ps: Install-Product node $env:nodejs_version
+  # install modules
+  - yarn
+
+# Post-install test scripts.
+test_script:
+  # Output useful info for debugging.
+  - node --version
+  - yarn --version
+  # - yarn lint
+  # run tests
+  - yarn test
+
+# build_script:
+#   # run build
+#   - yarn build
+build: off

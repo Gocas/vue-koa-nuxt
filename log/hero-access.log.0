@@ -1,0 +1,139 @@
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /","time":"2019-03-06T00:53:42.252Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/auth/whois","time":"2019-03-06T00:53:42.966Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/platform/uaano/oauth/validate?userinfo=DisplayName,PreferredLanguage,TimeZone","time":"2019-03-06T00:53:42.972Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/platform/uaano/oauth/validate?userinfo=DisplayName,PreferredLanguage,TimeZone (401) took 7 ms","time":"2019-03-06T00:53:42.979Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/auth/whois (200) took 20 ms","time":"2019-03-06T00:53:42.986Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET / (302) took 746 ms","time":"2019-03-06T00:53:42.998Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /login?page=%2F","time":"2019-03-06T00:53:43.000Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/auth/whois","time":"2019-03-06T00:53:43.016Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/platform/uaano/oauth/validate?userinfo=DisplayName,PreferredLanguage,TimeZone","time":"2019-03-06T00:53:43.019Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/platform/uaano/oauth/validate?userinfo=DisplayName,PreferredLanguage,TimeZone (401) took 2 ms","time":"2019-03-06T00:53:43.021Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/auth/whois (200) took 6 ms","time":"2019-03-06T00:53:43.022Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /login?page=%2F (200) took 56 ms","time":"2019-03-06T00:53:43.056Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/manifest.js","time":"2019-03-06T00:53:43.073Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/manifest.js (200) took 13 ms","time":"2019-03-06T00:53:43.086Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/vendor.0d2e1dfcf7b7.js","time":"2019-03-06T00:53:43.087Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/vendor.0d2e1dfcf7b7.js (200) took 37 ms","time":"2019-03-06T00:53:43.124Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/layouts_empty.js","time":"2019-03-06T00:53:43.125Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/layouts_empty.js (200) took 1 ms","time":"2019-03-06T00:53:43.126Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/hero.cf018e13a231.js","time":"2019-03-06T00:53:43.126Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/hero.cf018e13a231.js (200) took 4 ms","time":"2019-03-06T00:53:43.130Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_index.js","time":"2019-03-06T00:53:43.170Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_index.js (200) took 3 ms","time":"2019-03-06T00:53:43.173Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/logo.c843524.png","time":"2019-03-06T00:53:43.181Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/logo.c843524.png (200) took 1 ms","time":"2019-03-06T00:53:43.182Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/login_bg.d4808ab.png","time":"2019-03-06T00:53:43.186Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/login_bg.d4808ab.png (200) took 8 ms","time":"2019-03-06T00:53:43.194Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_index.js","time":"2019-03-06T00:53:43.195Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_index.js (200) took 3 ms","time":"2019-03-06T00:53:43.198Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/layouts_default.js","time":"2019-03-06T00:53:43.202Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/layouts_default.js (200) took 4 ms","time":"2019-03-06T00:53:43.206Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_charts.js","time":"2019-03-06T00:53:43.209Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_charts.js (200) took 5 ms","time":"2019-03-06T00:53:43.214Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_index.js","time":"2019-03-06T00:53:43.217Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_index.js (200) took 5 ms","time":"2019-03-06T00:53:43.222Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_activity_create.js","time":"2019-03-06T00:53:43.225Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_activity_create.js (200) took 3 ms","time":"2019-03-06T00:53:43.228Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_login.js","time":"2019-03-06T00:53:43.232Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_login.js (200) took 3 ms","time":"2019-03-06T00:53:43.235Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_activity_index.js","time":"2019-03-06T00:53:43.240Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_activity_index.js (200) took 3 ms","time":"2019-03-06T00:53:43.243Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_qrcode.js","time":"2019-03-06T00:53:43.248Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_qrcode.js (200) took 3 ms","time":"2019-03-06T00:53:43.251Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_ipw.js","time":"2019-03-06T00:53:43.256Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_ipw.js (200) took 2 ms","time":"2019-03-06T00:53:43.258Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_pwd.js","time":"2019-03-06T00:53:43.267Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_pwd.js (200) took 2 ms","time":"2019-03-06T00:53:43.270Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_phone.js","time":"2019-03-06T00:53:43.276Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_phone.js (200) took 3 ms","time":"2019-03-06T00:53:43.278Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_account_token.js","time":"2019-03-06T00:53:43.284Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_account_token.js (200) took 2 ms","time":"2019-03-06T00:53:43.286Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_about.js","time":"2019-03-06T00:53:43.291Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_about.js (200) took 1 ms","time":"2019-03-06T00:53:43.292Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /__webpack_hmr","time":"2019-03-06T00:53:43.697Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/ui/menu","time":"2019-03-06T00:53:43.816Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/ui/menu (401) took 4 ms","time":"2019-03-06T00:53:43.820Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/logo.4370468.svg","time":"2019-03-06T00:53:43.820Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/logo.4370468.svg (200) took 1 ms","time":"2019-03-06T00:53:43.821Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/avatar.163a4fa.svg","time":"2019-03-06T00:53:43.822Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/avatar.163a4fa.svg (200) took 3 ms","time":"2019-03-06T00:53:43.825Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/pwd.43ca17c.svg","time":"2019-03-06T00:53:43.825Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/pwd.43ca17c.svg (200) took 2 ms","time":"2019-03-06T00:53:43.827Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/exit.dfaab2d.svg","time":"2019-03-06T00:53:43.828Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/exit.dfaab2d.svg (200) took 1 ms","time":"2019-03-06T00:53:43.829Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/QRcode.9896072.png","time":"2019-03-06T00:53:43.829Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/QRcode.9896072.png (200) took 2 ms","time":"2019-03-06T00:53:43.831Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /favicon.ico","time":"2019-03-06T00:53:44.142Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /favicon.ico (304) took 3 ms","time":"2019-03-06T00:53:44.146Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /__webpack_hmr (200) took 10902 ms","time":"2019-03-06T00:53:54.599Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /login/ipw","time":"2019-03-06T00:53:57.455Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/auth/whois","time":"2019-03-06T00:53:57.464Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/platform/uaano/oauth/validate?userinfo=DisplayName,PreferredLanguage,TimeZone","time":"2019-03-06T00:53:57.466Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/platform/uaano/oauth/validate?userinfo=DisplayName,PreferredLanguage,TimeZone (401) took 1 ms","time":"2019-03-06T00:53:57.467Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/auth/whois (200) took 4 ms","time":"2019-03-06T00:53:57.468Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /login/ipw (200) took 75 ms","time":"2019-03-06T00:53:57.530Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/manifest.js","time":"2019-03-06T00:53:57.546Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/manifest.js (200) took 2 ms","time":"2019-03-06T00:53:57.548Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/vendor.0d2e1dfcf7b7.js","time":"2019-03-06T00:53:57.548Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/vendor.0d2e1dfcf7b7.js (200) took 2 ms","time":"2019-03-06T00:53:57.550Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/hero.cf018e13a231.js","time":"2019-03-06T00:53:57.571Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/hero.cf018e13a231.js (200) took 3 ms","time":"2019-03-06T00:53:57.574Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/layouts_default.js","time":"2019-03-06T00:53:57.759Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/layouts_default.js (200) took 1 ms","time":"2019-03-06T00:53:57.760Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_ipw.js","time":"2019-03-06T00:53:57.793Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_ipw.js (200) took 1 ms","time":"2019-03-06T00:53:57.794Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/avatar.163a4fa.svg","time":"2019-03-06T00:53:57.845Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/avatar.163a4fa.svg (200) took 1 ms","time":"2019-03-06T00:53:57.846Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/pwd.43ca17c.svg","time":"2019-03-06T00:53:57.953Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/pwd.43ca17c.svg (200) took 0 ms","time":"2019-03-06T00:53:57.953Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/QRcode.9896072.png","time":"2019-03-06T00:53:57.956Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/QRcode.9896072.png (200) took 2 ms","time":"2019-03-06T00:53:57.958Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/exit.dfaab2d.svg","time":"2019-03-06T00:53:57.959Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/exit.dfaab2d.svg (200) took 1 ms","time":"2019-03-06T00:53:57.960Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/img/logo.4370468.svg","time":"2019-03-06T00:53:57.960Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/img/logo.4370468.svg (200) took 0 ms","time":"2019-03-06T00:53:57.960Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_index.js","time":"2019-03-06T00:53:58.044Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_index.js (200) took 1 ms","time":"2019-03-06T00:53:58.045Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_charts.js","time":"2019-03-06T00:53:58.048Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_charts.js (200) took 1 ms","time":"2019-03-06T00:53:58.049Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_index.js","time":"2019-03-06T00:53:58.129Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_index.js (200) took 2 ms","time":"2019-03-06T00:53:58.131Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_index.js","time":"2019-03-06T00:53:58.131Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_index.js (200) took 1 ms","time":"2019-03-06T00:53:58.132Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_activity_create.js","time":"2019-03-06T00:53:58.133Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_activity_create.js (200) took 1 ms","time":"2019-03-06T00:53:58.134Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_login.js","time":"2019-03-06T00:53:58.222Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_login.js (200) took 1 ms","time":"2019-03-06T00:53:58.223Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_examples_activity_index.js","time":"2019-03-06T00:53:58.247Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_examples_activity_index.js (200) took 1 ms","time":"2019-03-06T00:53:58.248Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_qrcode.js","time":"2019-03-06T00:53:58.248Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_qrcode.js (200) took 1 ms","time":"2019-03-06T00:53:58.249Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_pwd.js","time":"2019-03-06T00:53:58.268Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_pwd.js (200) took 5 ms","time":"2019-03-06T00:53:58.273Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_phone.js","time":"2019-03-06T00:53:58.274Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_phone.js (200) took 6 ms","time":"2019-03-06T00:53:58.280Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_account_token.js","time":"2019-03-06T00:53:58.289Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_account_token.js (200) took 1 ms","time":"2019-03-06T00:53:58.290Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_about.js","time":"2019-03-06T00:53:58.291Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_about.js (200) took 1 ms","time":"2019-03-06T00:53:58.292Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/layouts_empty.js","time":"2019-03-06T00:53:58.293Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/layouts_empty.js (200) took 3 ms","time":"2019-03-06T00:53:58.295Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hpi/ui/menu","time":"2019-03-06T00:53:58.524Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hpi/ui/menu (401) took 2 ms","time":"2019-03-06T00:53:58.526Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /__webpack_hmr","time":"2019-03-06T00:53:58.545Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /favicon.ico","time":"2019-03-06T00:53:58.875Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /favicon.ico (200) took 55 ms","time":"2019-03-06T00:53:58.930Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/manifest.js.map","time":"2019-03-06T00:54:07.553Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/manifest.js.map (200) took 1 ms","time":"2019-03-06T00:54:07.554Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/vendor.0d2e1dfcf7b7.js.map","time":"2019-03-06T00:54:07.554Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/vendor.0d2e1dfcf7b7.js.map (200) took 1 ms","time":"2019-03-06T00:54:07.555Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/layouts_default.js.map","time":"2019-03-06T00:54:07.556Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/layouts_default.js.map (200) took 0 ms","time":"2019-03-06T00:54:07.556Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/pages_login_ipw.js.map","time":"2019-03-06T00:54:07.557Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/pages_login_ipw.js.map (200) took 1 ms","time":"2019-03-06T00:54:07.557Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/hero.cf018e13a231.js.map","time":"2019-03-06T00:54:07.558Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/hero.cf018e13a231.js.map (200) took 1 ms","time":"2019-03-06T00:54:07.559Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/0d2e1dfcf7b72395c714.hot-update.json","time":"2019-03-06T01:27:08.099Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/0d2e1dfcf7b72395c714.hot-update.json (200) took 2 ms","time":"2019-03-06T01:27:08.101Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[REQ] GET /hero/16.0d2e1dfcf7b72395c714.hot-update.js","time":"2019-03-06T01:27:08.106Z","v":0}
+{"name":"hero","hostname":"DESKTOP-NOG1KQ9","pid":14424,"level":20,"msg":"[RES] GET /hero/16.0d2e1dfcf7b72395c714.hot-update.js (200) took 3 ms","time":"2019-03-06T01:27:08.109Z","v":0}
